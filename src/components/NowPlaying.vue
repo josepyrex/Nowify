@@ -19,8 +19,6 @@
     </div>
     <div v-else class="now-playing" :class="getNowPlayingClass()">
       <h1 class="now-playing__idle-heading">Welcome To Pyrex HQ</h1>
-      <\n>
-      <h2 class="now-playing__artists">No Music Currently Playing</h2>
     </div>
   </div>
 </template>
